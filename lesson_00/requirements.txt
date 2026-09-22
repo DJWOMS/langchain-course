@@ -1,0 +1,21 @@
+# Базовый набор курса. Урок 0.
+#
+# Точные номера версий проставляются после установки, см. таблицу версий
+# в уроке 0. Здесь имена пакетов и команды взяты из документации:
+#
+# langchain[openai]  -> snippets/chat-model-tabs.mdx, вкладка OpenAI
+#                       ("pip install -U \"langchain[openai]\"")
+# langgraph          -> oss/langgraph/install.mdx ("pip install -U langgraph").
+#                       Приезжает и сам, вместе с langchain[openai], через
+#                       зависимость langgraph-prebuilt. Здесь он записан явно,
+#                       потому что с урока 12 код импортирует его напрямую.
+# python-dotenv      -> oss/langchain/quickstart.mdx, раздел "Set up API keys"
+#
+# Если вы работаете не с OpenAI, замените дополнение в первой строке на своё:
+# langchain[anthropic], langchain[google-genai], langchain[aws],
+# langchain[huggingface] (snippets/chat-model-tabs.mdx),
+# или поставьте отдельный пакет langchain-openrouter для OpenRouter.
+
+langchain[openai]
+langgraph
+python-dotenv

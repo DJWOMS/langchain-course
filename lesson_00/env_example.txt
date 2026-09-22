@@ -1,0 +1,27 @@
+# Пример файла окружения. Скопируйте содержимое в файл .env рядом со скриптом
+# и подставьте свои значения. Файл .env в git не коммитится.
+#
+# Имена переменных для ключей задают сами поставщики, список во вкладках
+# oss/langchain/quickstart.mdx, раздел "Set up API keys".
+
+# Ключ поставщика. Для OpenAI и для любого адреса, совместимого с OpenAI:
+OPENAI_API_KEY=
+
+# Имя модели. Это переменная курса, а не переменная LangChain.
+# Список доступных имён смотрите у своего поставщика,
+# таблица со ссылками в oss/concepts/providers-and-models.mdx,
+# раздел "Find model names".
+MODEL_NAME=
+
+# Адрес, совместимый с OpenAI Chat Completions API. Тоже переменная курса.
+# Оставьте пустым, если работаете с поставщиком напрямую.
+# Механика параметра base_url описана в oss/langchain/models.mdx,
+# раздел "Base URL and proxy settings".
+MODEL_BASE_URL=
+
+# Переменные для других поставщиков, если вы выбрали не OpenAI
+# (имена взяты из quickstart.mdx):
+# ANTHROPIC_API_KEY=
+# GOOGLE_API_KEY=
+# OPENROUTER_API_KEY=
+# OLLAMA_API_KEY=

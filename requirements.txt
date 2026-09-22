@@ -1,0 +1,28 @@
+# Полный курс по LangChain. Закреплённые версии прямых зависимостей.
+#
+# Это сборка, на которой прогонялись примеры курса. Незакреплённый набор
+# с командами из документации лежит в code/lesson_00/requirements.txt,
+# он показывает, что и откуда ставится. Этот файл нужен для другого:
+# воспроизвести ровно ту сборку, на которой в уроках показан вывод.
+#
+# Установка:
+#   python -m venv .venv
+#   .venv\Scripts\activate        (Windows)
+#   source .venv/bin/activate     (Linux, macOS)
+#   pip install -r requirements.txt
+#
+# Прогон: Python 3.12.7, Windows 11, 19.09.2026.
+# langchain-core и langchain-openai закреплены отдельно, потому что код
+# курса обращается к ним напрямую: from langchain_openai import ChatOpenAI
+# в примерах урока 0 и langchain_core.exceptions в блоке ошибок.
+#
+# langgraph-checkpoint-sqlite добавлен 16.09.2026 под урок 12: чекпойнтер на
+# файл ставится отдельным пакетом, в langgraph он не входит
+# (oss/langgraph/checkpointers.mdx, раздел Checkpointer libraries).
+
+langchain[openai]==1.4.2
+langchain-core==1.6.3
+langchain-openai==1.6.2
+langgraph==1.2.11
+langgraph-checkpoint-sqlite==3.1.1
+python-dotenv==1.2.3
