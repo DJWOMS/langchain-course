@@ -13,13 +13,13 @@
 
 ## Уроки на сайте
 
-1) [Настройка окружения](https://aisferaic.ru/blog/1449/)
+1) [Настройка окружения](https://aisferaic.ru/blog/tutorials/1449/)
 
-2) [Как устроена языковая модель](https://aisferaic.ru/blog/1450/)
+2) [Как устроена языковая модель](https://aisferaic.ru/blog/tutorials/1450/)
 
-3) [Зачем нужен LangChain](https://aisferaic.ru/blog/1451/)
+3) [Зачем нужен LangChain](https://aisferaic.ru/blog/tutorials/1451/)
 
-4) [Сообщения и контент-блоки](https://aisferaic.ru/blog/1453/)
+4) [Сообщения и контент-блоки](https://aisferaic.ru/blog/tutorials/1453/)
 
 ## Как запустить
 
