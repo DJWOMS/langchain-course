@@ -19,6 +19,8 @@
 
 3) [Зачем нужен LangChain](https://aisferaic.ru/blog/1451/)
 
+4) [Сообщения и контент-блоки](https://aisferaic.ru/blog/1453/)
+
 ## Как запустить
 
 Нужен Python 3.11 или выше.
