@@ -22,6 +22,8 @@
 
 4) [Сообщения и контент-блоки](https://aisferaic.ru/blog/tutorials/1453/)
 
+5) [Модель как настраиваемый компонент](https://aisferaic.ru/blog/tutorials/1454/)
+
 ## Как запустить
 
 Нужен Python 3.11 или выше.
