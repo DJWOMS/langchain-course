@@ -24,6 +24,7 @@
 - Урок 4: [Модель как настраиваемый компонент](https://aisferaic.ru/blog/tutorials/1454/)
 - Урок 5: [Системный промпт и контекст вместо шаблонов](https://aisferaic.ru/blog/tutorials/1456/)
 - Урок 6: [Структурированный вывод](https://aisferaic.ru/blog/tutorials/1459/)
+- Урок 7: [Стриминг: поток вместо ожидания](https://aisferaic.ru/blog/tutorials/1462/)
 
 ## Как запустить
 
