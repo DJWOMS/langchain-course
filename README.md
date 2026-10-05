@@ -28,6 +28,7 @@
 - Урок 6: [Структурированный вывод](https://aisferaic.ru/blog/tutorials/1459/)
 - Урок 7: [Стриминг: поток вместо ожидания](https://aisferaic.ru/blog/tutorials/1462/)
 - Урок 8: [Поток событий: stream_events версии v3](https://aisferaic.ru/blog/tutorials/1463/)
+- Урок 9: [Инструменты и цикл вызова](https://aisferaic.ru/blog/tutorials/1464/)
 
 ## Как запустить
 
