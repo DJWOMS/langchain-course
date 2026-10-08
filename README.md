@@ -30,6 +30,7 @@
 - Урок 7: [Стриминг: поток вместо ожидания](https://aisferaic.ru/blog/tutorials/1462/)
 - Урок 8: [Поток событий: stream_events версии v3](https://aisferaic.ru/blog/tutorials/1463/)
 - Урок 9: [Инструменты и цикл вызова](https://aisferaic.ru/blog/tutorials/1464/)
+- Урок 10: [ToolRuntime и Runtime: окружение вызова внутри инструмента](https://aisferaic.ru/blog/tutorials/1466/)
 
 ## Как запустить
 
