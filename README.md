@@ -31,6 +31,7 @@
 - Урок 8: [Поток событий: stream_events версии v3](https://aisferaic.ru/blog/tutorials/1463/)
 - Урок 9: [Инструменты и цикл вызова](https://aisferaic.ru/blog/tutorials/1464/)
 - Урок 10: [ToolRuntime и Runtime: окружение вызова внутри инструмента](https://aisferaic.ru/blog/tutorials/1466/)
+- Урок 11: [Первый агент: цикл, состояние и рамка настройки](https://aisferaic.ru/blog/tutorials/1467/)
 
 ## Как запустить
 
