@@ -32,6 +32,7 @@
 - Урок 9: [Инструменты и цикл вызова](https://aisferaic.ru/blog/tutorials/1464/)
 - Урок 10: [ToolRuntime и Runtime: окружение вызова внутри инструмента](https://aisferaic.ru/blog/tutorials/1466/)
 - Урок 11: [Первый агент: цикл, состояние и рамка настройки](https://aisferaic.ru/blog/tutorials/1467/)
+- Урок 12: [Память сессии: threads, checkpoints и цена истории](https://aisferaic.ru/blog/tutorials/1468/)
 
 ## Как запустить
 
