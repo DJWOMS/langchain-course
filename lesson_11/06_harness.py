@@ -53,7 +53,7 @@ configured = create_agent(
         # Отказоустойчивость: бюджет вызовов модели и повтор упавшего инструмента.
         ModelCallLimitMiddleware(run_limit=8, exit_behavior="end"),
         ToolRetryMiddleware(max_retries=2),
-        # Ограждения: почтовый адрес не уходит в модель как есть.
+        # Guardrails: почтовый адрес не уходит в модель как есть.
         PIIMiddleware("email", strategy="redact", apply_to_input=True),
         # Вмешательство человека: возврат денег без человека не делается.
         HumanInTheLoopMiddleware(interrupt_on={"refund": True}),
