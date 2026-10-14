@@ -38,6 +38,7 @@
 - Урок 11: [Первый агент: цикл, состояние и рамка настройки](https://aisferaic.ru/blog/tutorials/1467/)
 - Урок 12: [Память сессии: threads, checkpoints и цена истории](https://aisferaic.ru/blog/tutorials/1468/)
 - Урок 13: [Долговременная память: хранилище между сессиями](https://aisferaic.ru/blog/tutorials/1469/)
+- Урок 14: [Context engineering: чем управлять в контексте агента](https://aisferaic.ru/blog/tutorials/1470/)
 
 ## Как запустить
 
