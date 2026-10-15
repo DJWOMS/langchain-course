@@ -44,6 +44,7 @@
 - Урок 14: [Context engineering: чем управлять в контексте агента](https://aisferaic.ru/blog/tutorials/1470/)
 - Урок 15: [Встроенные middleware: точки встраивания и порядок](https://aisferaic.ru/blog/tutorials/1471/)
 - Урок 16: [Свой middleware: хуки, прыжки и своё состояние](https://aisferaic.ru/blog/tutorials/1472/)
+- Урок 17: [Подтверждение человеком и guardrails](https://aisferaic.ru/blog/tutorials/1473/)
 
 ## Как запустить
 
